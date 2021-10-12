@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img border-radius: 15px src="https://user-images.githubusercontent.com/82576855/125453498-2bff49d7-42af-466a-b681-0030dab45398.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://https://avatars.githubusercontent.com/u/82576855?v=4" width="200" height="200"/>
 
   <p align="center">
 
