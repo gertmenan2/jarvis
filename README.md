@@ -1,5 +1,12 @@
 # JARVIS V1
 
+<div align="center">
+
+  <img border-radius: 15px src="https://user-images.githubusercontent.com/82576855/125453498-2bff49d7-42af-466a-b681-0030dab45398.jpg" width="200" height="200"/>
+
+  <p align="center">
+
+
 <p align="center">
 <a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
