@@ -15,6 +15,8 @@
 </p>
 </details>
 
+[![Run on Repl.it](https://replit.com/badge/github/gertmenan2/gertmenan-new)](https://replit.com/@Sanithsajan/jarvis#README.md)
+
 ### HEROKU
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/) 
